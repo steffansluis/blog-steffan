@@ -69,4 +69,5 @@ theme: adoubi
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: heroku
+  repo: https://git.heroku.com/blog-steffan.git
