@@ -1,38 +1,7 @@
 ---
-title: Hello World
+title: Hello World!
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+So, this is my first blog post. I like writing, and I think I'm good at it, so I figured I should do it more. This first post will be short and pretty informal, not sure if that's going the be representative of the rest of this blog. In any case, let's see where this takes us!
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+## About me
+So...my name is Steffan Sluis. I'm a Dutch guy, born in 1992 and I like thinking about things. Usually I focus on things related to Computer Science, but often enough I end up on a subject that is not at all related to the one I started with.
